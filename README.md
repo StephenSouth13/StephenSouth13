@@ -78,9 +78,24 @@ Let’s build the future — one line of code at a time!
 
 ---
 
+<h3 align="center">Thanks for Visiting my GitHub Profile!</h3>
+<hr>
+
+<!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=StephenSouth13&label=Profile%20Views&color=12&icon=0" />
+  <img 
+    src="https://github.com/StephenSouth13/StephenSouth13/raw/output/github-contribution-grid-snake-dark.svg" 
+    alt="Contribution Snake" 
+    style="max-width: 100%;" />
 </p>
+
+<!-- 👁️ Profile Views Counter -->
+<p align="center">
+  <img 
+    src="https://visitcount.itsvg.in/api?id=StephenSouth13&label=Profile%20Views&color=12&icon=0" 
+    alt="Profile Views Counter" />
+</p>
+
 
 
 
