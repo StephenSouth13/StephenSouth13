@@ -9,7 +9,7 @@
 ---
 
 # 💫 About Me:
-Hi there! I'm **Stephen South**, a **13-year-old tech enthusiast** passionate about:
+Hi there! I'm **Stephen South**, a **22-year-old tech enthusiast** passionate about:
 - 🌐 Web Development  
 - 🎮 Game Development  
 - 🧠 Artificial Intelligence  
