@@ -79,7 +79,8 @@ Let’s build the future — one line of code at a time!
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=StephenSouth13&icon=0&color=12" />
+  <img src="https://visitcount.itsvg.in/api?id=StephenSouth13&label=Profile%20Views&color=12&icon=0" alt="Visitor Count" />
 </p>
+
 
 <!-- Proudly created by Stephen South | Enhanced using https://gprm.itsvg.in and Skillicons.dev -->
