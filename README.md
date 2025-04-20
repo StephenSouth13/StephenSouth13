@@ -1,9 +1,7 @@
 <h1 align="center">
   🌟 Welcome to Stephen South's GitHub! 🌟  
 </h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/StephenSouth13/StephenSouth13/main/animated-gradient.svg" alt="Animated Gradient Background" width="100%" />
-</p>
+
 
 
 
