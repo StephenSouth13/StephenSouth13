@@ -97,6 +97,7 @@ Let’s build the future — one line of code at a time!
     style="max-width: 100%;" />
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/StephenSouth13/count.svg)
 
 
 <!-- Proudly created by Stephen South | Enhanced using https://gprm.itsvg.in and Skillicons.dev -->
