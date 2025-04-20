@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com/?](https://www.facebook.com/photo/?fbid=424811750305936&set=a.105811448872636)lines=Hi+I'm+Stephen+South+👋;13y+Tech+Enthusiast+%F0%9F%94%A5;Web+%7C+Game+%7C+AI+Dev+in+Progress...&center=true&width=500&height=30&color=F7C147&vCenter=true&size=18">
+  <img src="https://i.gifer.com/VAyR.gif" alt="background" width="100%" />
 </p>
+
 
 ---
 
