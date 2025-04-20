@@ -92,12 +92,11 @@ Let’s build the future — one line of code at a time!
 <!-- 👁️ Profile Views Counter -->
 <p align="center">
   <img 
-    src="https://visitcount.itsvg.in/api?id=StephenSouth13&label=Profile%20Views&color=12&icon=0" 
-    alt="Profile Views Counter"
+    src="https://profile-counter.glitch.me/StephenSouth13/count.svg" 
+    alt="Profile Views Counter" 
     style="max-width: 100%;" />
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/StephenSouth13/count.svg)
 
 
 <!-- Proudly created by Stephen South | Enhanced using https://gprm.itsvg.in and Skillicons.dev -->
