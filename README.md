@@ -2,9 +2,7 @@
   🌟 Welcome to Stephen South's GitHub! 🌟  
 </h1>
 
-<p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" alt="background" width="100%" />
-</p>
+
 
 
 ---
