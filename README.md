@@ -79,7 +79,7 @@ Let’s build the future — one line of code at a time!
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=StephenSouth13&label=Profile%20Views&color=12&icon=0" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=StephenSouth13&label=Profile%20Views&color=12&icon=0" />
 </p>
 
 
