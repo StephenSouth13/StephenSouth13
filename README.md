@@ -57,7 +57,7 @@ Let’s build the future — one line of code at a time!
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephenSouth13&theme=radical&show_icons=true" alt="stats" />
+ 
   <img src="https://nirzak-streak-stats.vercel.app/?user=StephenSouth13&theme=radical" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSouth13&layout=compact&theme=radical" />
 </p>
