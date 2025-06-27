@@ -1,8 +1,5 @@
 # Stephen South 🌟
 
-<p align="center">
-  <img src="https://lottie.host/3aa17cf6-e6f0-4908-9e66-745b36d80519/xzB3doFzDP.json" alt="3D Dev Animation" width="180px" />
-</p>
 
 **🎮 Game Dev • 🧠 AI Enthusiast • 🌐 Full‑Stack**  
 📍 Vietnam • 22 y/o  
