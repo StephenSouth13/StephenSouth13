@@ -4,9 +4,6 @@ Hi Stephen! Here's your upgraded README.
 Upload it to your repository and replace the link in the `[Your-Banner-Image-Here]` placeholder below.
 -->
 
-<p align="center">
-  <img src="https://www.facebook.com/photo?fbid=713957814724660&set=a.105359468917834" alt="Stephen South - Game Dev | AI Explorer | Full-Stack Coder"/>
-</p>
 
 <div align="center">
 
