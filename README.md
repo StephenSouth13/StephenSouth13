@@ -5,7 +5,7 @@ Upload it to your repository and replace the link in the `[Your-Banner-Image-Her
 -->
 
 <p align="center">
-  <img src="[Your-Banner-Image-Here]" alt="Stephen South - Game Dev | AI Explorer | Full-Stack Coder"/>
+  <img src="https://www.facebook.com/photo?fbid=713957814724660&set=a.105359468917834" alt="Stephen South - Game Dev | AI Explorer | Full-Stack Coder"/>
 </p>
 
 <div align="center">
