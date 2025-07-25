@@ -94,9 +94,6 @@ Upload it to your repository and replace the link in the `[Your-Banner-Image-Her
   <a href="https://www.youtube.com/@southstephen"><img src="https://skillicons.dev/icons?i=youtube" height="30"/></a>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/StephenSouth13/count.svg" />
-</p>
 
 <p align="center">
   <i>“Stay curious. Keep crafting.”</i>
