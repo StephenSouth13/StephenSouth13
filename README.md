@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1280x500.png?text=Stephen+South's+GitHub+Profile" alt="Banner Image">
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://raw.githubusercontent.com/StephenSouth13/StephenSouth13/main/assets/readme-header.png" alt="README Header" />
-  <br />
 
   # Stephen South 🐉
 
