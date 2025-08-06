@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="https://www.facebook.com/photo/?fbid=683812577739184&set=a.105811448872636" alt="Stephen South Banner" width="100%">
   <h1>✨ Stephen South 🐉</h1>
   <p><b>Game Developer</b> • <b>AI Explorer</b> • <b>Full-Stack Coder</b></p>
   <p>Crafting interactive worlds where technology meets emotion.</p>
