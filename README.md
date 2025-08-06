@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/StephenSouth13/StephenSouth13/main/assets/banner_readme.png" alt="Stephen South Banner" width="100%">
+  <img src="https://www.facebook.com/photo/?fbid=683812577739184&set=a.105811448872636" alt="Stephen South Banner" width="100%">
   <h1>✨ Stephen South 🐉</h1>
   <p><b>Game Developer</b> • <b>AI Explorer</b> • <b>Full-Stack Coder</b></p>
   <p>Crafting interactive worlds where technology meets emotion.</p>
@@ -86,18 +86,4 @@ Chào bạn! Tôi là Stephen, một nhà phát triển phần mềm với niề
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSouth13&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
 </p>
 
----
 
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/StephenSouth13/StephenSouth13/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<p align="center">
-  <i>"Stay curious. Keep crafting."</i><br/>
-  <img src="https://profile-counter.glitch.me/StephenSouth13/count.svg" alt="Profile Views" />
-</p>
-```
