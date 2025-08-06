@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/StephenSouth13/StephenSouth13/main/assets/banner_readme.png" alt="Stephen South Banner" width="100%">
   <h1>✨ Stephen South 🐉</h1>
@@ -21,7 +22,6 @@
   <a href="https://www.youtube.com/@southstephen">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
-</p>
 </div>
 
 ---
@@ -43,7 +43,7 @@ Chào bạn! Tôi là Stephen, một nhà phát triển phần mềm với niề
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,rust,py,pytorch,unity,threejs,html,css,js,php,bootstrap,c,cs,cpp,dotnet,git,github,figma,docker,linux,nginx,apache,cloudflare,wordpress&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,rust,py,pytorch,unity,threejs,html,css,js,php,bootstrap,c,cs,cpp,dotnet,git,github,figma,docker,linux,nginx,apache,cloudflare,wordpress&perline=10" alt="My Tech Stack" />
   </a>
 </p>
 
@@ -78,6 +78,7 @@ Chào bạn! Tôi là Stephen, một nhà phát triển phần mềm với niề
 *Một cái nhìn tổng quan về hành trình code và sự cống hiến của tôi.*
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=StephenSouth13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   <img src="https://github-readme-stats.vercel.app/api?username=StephenSouth13&theme=tokyonight&show_icons=true&hide_border=true&border_radius=12" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=StephenSouth13&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -99,3 +100,4 @@ Chào bạn! Tôi là Stephen, một nhà phát triển phần mềm với niề
   <i>"Stay curious. Keep crafting."</i><br/>
   <img src="https://profile-counter.glitch.me/StephenSouth13/count.svg" alt="Profile Views" />
 </p>
+```
