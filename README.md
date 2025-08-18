@@ -23,52 +23,6 @@
   </a>
 </div>
 
----
-
-### 🚀 About Me
-
-Chào bạn! Tôi là Stephen, một nhà phát triển phần mềm với niềm đam mê sâu sắc trong việc kết hợp các công nghệ tiên tiến để tạo ra những trải nghiệm độc đáo. Từ việc xây dựng các thế giới ảo trong game cho đến việc khám phá tiềm năng của AI, tôi luôn tìm kiếm những thách thức mới để phát triển bản thân.
-
-* 🔭 Hiện tại tôi đang phát triển một series game chữa lành với cốt truyện được hỗ trợ bởi AI.
-* 🌱 Đang học hỏi và thử nghiệm với các framework front-end như `React` và `Three.js`.
-* 👯‍♂️ Tìm kiếm cơ hội hợp tác trong các dự án game hoặc AI.
-* 💬 Thích nói chuyện về GameDev, AI/ML, và các dự án mã nguồn mở.
-
----
-
-### 🛠️ My Tech Stack
-
-*Một bộ sưu tập các công cụ và công nghệ mà tôi sử dụng hàng ngày.*
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,rust,py,pytorch,unity,threejs,html,css,js,php,bootstrap,c,cs,cpp,dotnet,git,github,figma,docker,linux,nginx,apache,cloudflare,wordpress&perline=10" alt="My Tech Stack" />
-  </a>
-</p>
-
----
-
-### ✨ Featured Projects
-
-*Những dự án mà tôi tự hào và đang dành nhiều tâm huyết.*
-
-<details>
-  <summary><b>🧩 Healing Game Series (In-Progress)</b></summary>
-  <blockquote>A cozy game series designed to promote empathy and mental wellbeing, powered by GPT-driven narrative interactions.</blockquote>
-  <p><b>Tech Stack:</b> <code>Unity</code>, <code>C#</code>, <code>JavaScript</code>, <code>OpenAI API</code></p>
-</details>
-
-<details>
-  <summary><b>🌌 Interactive 3D Portfolio (In-Progress)</b></summary>
-  <blockquote>An immersive portfolio experience built from scratch with a 3D interactive laptop and avatar. Not just a page, but a world.</blockquote>
-  <p><b>Tech Stack:</b> <code>Three.js</code>, <code>React Three Fiber</code>, <code>Tailwind CSS</code>, <code>React</code></p>
-</details>
-
-<details>
-  <summary><b>🔎 AI Resume Scanner (Concept)</b></summary>
-  <blockquote>An NLP-powered tool to score and provide actionable feedback on resumes, helping job seekers optimize for ATS.</blockquote>
-  <p><b>Tech Stack:</b> <code>Python</code>, <code>Streamlit</code>, <code>NLP</code>, <code>OpenAI API</code></p>
-</details>
 
 ---
 
