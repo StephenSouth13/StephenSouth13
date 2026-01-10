@@ -1,32 +1,45 @@
-<h1 align="center">
-  Hi 👋, I'm Stephen South
-</h1>
+<h1 align="center">Hi 👋, I'm Stephen South</h1>
 
 <h3 align="center">
-  🚀 Software Engineer | Web Developer | Tech Enthusiast
+  🎮 Unity Game Developer | 💻 Software Engineer | 🌐 Web Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Build.+Learn.+Iterate.;Fullstack+Web+Developer;React+%7C+Backend+%7C+Cloud;Turning+ideas+into+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Build.+Optimize.+Ship.;Unity+Game+Developer;Fullstack+Web+Engineer;Performance+%7C+Architecture+%7C+Clean+Code" />
 </p>
 
 ---
 
 ## 🌌 About Me
 
-- 💻 Passionate about **building scalable web applications**
-- ⚙️ Focus on **Frontend (React)** & **Backend (Node / Go / Java)**
-- ☁️ Interested in **Cloud, DevOps, Automation**
-- 🧠 Always learning new technologies & best practices
-- 🚀 Believe in *Clean Code – Performance – Maintainability*
+- 🎮 **Unity Game Developer** (PC / Mobile)
+- 🧠 Focus on **Gameplay Systems, Optimization, Scene Management**
+- 💻 Fullstack Web Developer (React / Backend)
+- ⚙️ Enjoy solving **performance & architecture problems**
+- 🚀 Believe in *Clean Code – Optimization – Scalability*
+
+---
+
+## 🎮 Game Development (Unity)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
+
+**What I do in Unity:**
+- Gameplay & Game Mechanics
+- Scene optimization (LOD, Lightmap, Occlusion)
+- Modular systems & clean architecture
+- Asset integration & refactor (Book of the Dead, HDRP)
+- Build & performance tuning
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,js,ts,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -41,20 +54,22 @@
 
 ### ☁️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=StephenSouth13&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSouth13&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=StephenSouth13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenSouth13&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=StephenSouth13&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=StephenSouth13&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,33 +77,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StephenSouth13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 🚀 Featured Skills
-
-- ✅ Clean Architecture & Modular Design
-- ✅ REST API & Authentication
-- ✅ CMS & Admin Dashboard Systems
-- ✅ Performance Optimization
-- ✅ CI/CD mindset
-
----
-
-## 🌐 Connect with Me
-
-<p>
-  <a href="https://github.com/StephenSouth13">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=StephenSouth13&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -101,9 +90,9 @@
 
 ---
 
-## 💡 Quote I Believe In
+## 💡 Philosophy
 
-> *"First make it work. Then make it right. Then make it fast."*
+> *Make it work → Make it right → Make it fast.*
 
 ---
 
