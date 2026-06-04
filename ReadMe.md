@@ -1,57 +1,83 @@
-# 👋 Hi, I'm Stephen South
+# 👋 Stephen South
 
 ![Banner](https://pjzaexnqorlrpctaqiiv.supabase.co/storage/v1/object/public/images/gallery/1773204699949-e5xy8i.jpg)
 
-> Full-stack developer • Game dev • System builder • AI explorer
+> Full-stack Developer • Game Engineer • System Builder • AI Explorer
 
 ---
 
-## 🧠 About Me
+## 🧠 Profile
 
-I'm a **software developer (22 y/o)** focused on building real-world systems across:
+I build **real systems**, not just demos.
 
-- 🌐 Full-stack Web Applications  
-- 🎮 Game Development (Unity, C#)  
-- 📱 Mobile Apps (Flutter)  
-- 🏢 Business Systems (CRM / HRM / ERP)  
-- 🤖 AI & Automation Tools  
-
-I like building **end-to-end products**, not just tutorials or demo apps.
-
-Currently exploring scalable architecture, performance optimization, and multi-platform systems.
+Focused on:
+- Scalable web applications
+- Game systems & real-time logic
+- Cross-platform mobile apps
+- Business software (CRM / HRM / ERP)
+- AI-assisted tools & automation
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Core Languages
-`Java` · `C#` · `C++` · `JavaScript` · `TypeScript` · `Dart` · `PHP` · `Rust`
+### 🧩 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+---
 
 ### 🌐 Web & Backend
-`Node.js` · `Next.js` · `React` · `Express` · `REST APIs` · `WebSockets`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-lightgrey?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+
+---
 
 ### 📱 Mobile
-`Flutter` · `Android (Java)`  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
 
 ### 🎮 Game Dev
-`Unity` · `C# Scripting` · `Game Physics` · `Realtime Systems`
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C# Game](https://img.shields.io/badge/Game%20Dev-C%23-green?style=for-the-badge)
 
-### 🏗️ Systems / DevOps
-`Nginx` · `Apache` · `Cloudflare` · `Linux Server Basics`  
+---
+
+### 🏗️ Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
 
 ### 🗄️ Databases
-`MySQL` · `PostgreSQL` · `MongoDB` · `Redis (basic)`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## 🚀 What I Build
 
-- CRM / HRM platforms for business workflows
-- Full-stack SaaS applications
-- Game prototypes & systems in Unity
-- Automation tools & bots
-- API-first backend systems
-- Cross-platform mobile apps
+- 🏢 CRM / HRM / ERP systems (business platforms)
+- 🌐 Full-stack SaaS products
+- 🎮 Unity game systems (logic + multiplayer ideas)
+- 📱 Cross-platform mobile apps (Flutter)
+- 🤖 Automation & AI tools
+- ⚙️ Backend architecture & APIs
 
 ---
 
@@ -65,21 +91,13 @@ Currently exploring scalable architecture, performance optimization, and multi-p
 
 ## 🧭 Current Focus
 
-- Scaling full-stack architecture
-- Improving system design (CRM/HRM SaaS level)
-- Game backend logic (Unity + server sync)
-- AI integration into web platforms
+- System design (scalable backend architecture)
+- CRM/HRM SaaS-level products
+- Game backend + realtime sync systems
+- AI integration into real applications
 
 ---
 
-## 📫 Contact
+## 🧠 Philosophy
 
-- Instagram: https://www.instagram.com/longquach130723/
-- LinkedIn: https://www.linkedin.com/in/quach-long-338018274/
-- X: https://x.com/SouthSteph1307
-- YouTube: https://www.youtube.com/@southstephen
-- Email: mailto:stephensouth1307@gmail.com
-
----
-
-> “Build systems, not just code.”
+> “Don’t just write code. Build systems that survive scale.”
